@@ -48,7 +48,7 @@ You can find over 400 papers on TDA applications in the [Zotero database](https:
 
 
 ## Assignment 0
-Access the course materials on 
+Access the course materials on https://github.com/ZhengchaoW/DSC214-SPR24
 
 ---
 ## References
