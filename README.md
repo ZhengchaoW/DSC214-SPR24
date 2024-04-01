@@ -22,8 +22,8 @@ There is a final project/survey: 100%
 - The final grade is based on four parts
   - proposal
   - project
-  - report
-  - short presentation
+    - report
+    - short presentation
 - Requirement: 
   - Each student is required to meet briefly with me around 3-4th week, so that we can discuss to find a good potential topic for your final project. 
   - After a topic is chosen, you are required to submit a short proposal (1-2 pages) about what you intend to work on and your plan. 
@@ -33,7 +33,8 @@ There is a final project/survey: 100%
 
 ### Project ideas
 The goal of the class project is to encourage you to explore topological data analysis methods, whether through applications or theoretical research.  Some possibilities
-- use topological methods to analyze datasets from your own research. 
+- use topological methods to analyze datasets from your own research
+- theoretical improvements to existing results 
 - explore recent TDA-related papers in NeurIPS, ICML, or ICLR. 
 
 You can find over 400 papers on TDA applications in the [Zotero database](https://www.zotero.org/groups/2425412/tda-applications/items), which you may use as inspiration to improve upon an existing paper or apply to your dataset in a non-trivial manner. If you are having difficulty finding a suitable topic, don't hesitate to reach out to me and we can work together to find a topic that fits your background or current research interests.
@@ -58,6 +59,7 @@ Much of the material is from the book
 Other useful references
 - *Computational Topology: An Introduction*,  by  H. Edelsbrunner and J. Harer, AMS Press, 2009.
 - https://www.aatrn.net/ (AATRN: Applied Algebraic Topology Research Network)
+  - they have some awesome [short videos](https://sites.google.com/view/aatrn-tutorial-a-thon) on various topics in TDA
 - Yusu's [course webpage](https://sites.google.com/ucsd.edu/dsc291-190-tda)
 - [Lecture notes](https://drive.google.com/open?id=1SCrKHfZdDuMmSKlZ7xveQT8SqBHjFEkk) by Dr. Tom Needham from FSU (with more focus on mathematics details)
 - A [Zotero database](https://www.zotero.org/groups/2425412/tda-applications/items) of papers on topological data analysis
