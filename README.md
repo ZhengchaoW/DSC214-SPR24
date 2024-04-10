@@ -66,6 +66,9 @@ Other useful references
 - A [Zotero database](https://www.zotero.org/groups/2425412/tda-applications/items) of papers on topological data analysis
 - *Algebraic Topology*,  by  A. Hatcher, Cambridge University Press, 2002. (Online version is available at the [author's webpage](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html).)
 
+---
+If you want to explore ahead of time how TDA can be implemented using code, I would suggest you check out the tutorials from [GUDHI](https://github.com/GUDHI/TDA-tutorial) and [Giotto-TDA](https://giotto-ai.github.io/gtda-docs/0.5.1/notebooks/index.html#notebooks-index)
+
 
 ---
 ## Lecture materials
