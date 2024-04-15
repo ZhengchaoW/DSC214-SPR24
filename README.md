@@ -43,9 +43,9 @@ You can find over 400 papers on TDA applications in the [Zotero database](https:
 
 ### Timeline
 - Week 2-5: Students meet with me to discuss project topic.
-- Week 6: Selection of final project topic done. Project proposal due by end of May 11th, 2023 (Saturday). 
+- Week 6: Selection of final project topic done. Project proposal due by end of May 11th, 2024 (Saturday). 
 - Week 10: Finish up your final project
-- Final week: Final project report as well as your recorded presentation are due by June 12, 2023 (Wednesday). 
+- Final week: Final project report as well as your recorded presentation are due by June 12, 2024 (Wednesday). 
 
 
 
